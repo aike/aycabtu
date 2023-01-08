@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aycabtu/static/css/main.9469a19c.css",
+    "main.css": "/aycabtu/static/css/main.66b1b353.css",
     "main.js": "/aycabtu/static/js/main.1b83d991.js",
     "static/js/787.c3aae43e.chunk.js": "/aycabtu/static/js/787.c3aae43e.chunk.js",
     "index.html": "/aycabtu/index.html",
-    "main.9469a19c.css.map": "/aycabtu/static/css/main.9469a19c.css.map",
+    "main.66b1b353.css.map": "/aycabtu/static/css/main.66b1b353.css.map",
     "main.1b83d991.js.map": "/aycabtu/static/js/main.1b83d991.js.map",
     "787.c3aae43e.chunk.js.map": "/aycabtu/static/js/787.c3aae43e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9469a19c.css",
+    "static/css/main.66b1b353.css",
     "static/js/main.1b83d991.js"
   ]
 }
